@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	
+	int m;
+	int *pt;
+	m=10;
+	pt=&x;
+	cout<<"address of m ="<<&x<<endl;
+    cout<<"value of pt ="<<*pt<<endl;
